@@ -1,0 +1,7 @@
+markdown: redcarpet
+pygments: true
+
+title_tag_text: SushiJS
+h1_tag_text: SushiJS
+
+exclude: ["CNAME"]
