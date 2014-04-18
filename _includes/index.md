@@ -13,3 +13,5 @@ Since I don’t actually have content for this meta site yet, here’s some fanc
 
 * [San Francisco, CA, USA](/san-francisco-ca-usa)
 * [Norfolk, VA, USA](/norfolk-va-usa)
+
+Is [your hometown](https://github.com/sushijs/sushijs.github.io/issues/new) next?
