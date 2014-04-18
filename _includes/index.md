@@ -1,4 +1,4 @@
-[SushiJS](http://www.sushijs.org) is a meetup designed to bring JavaScript developers through sushi and conversation.
+[SushiJS](http://www.sushijs.org) is a meetup designed to bring JavaScript developers together through sushi and conversation.
 
 ## Why Sushi?
 
