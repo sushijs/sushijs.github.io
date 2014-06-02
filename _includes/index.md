@@ -11,7 +11,7 @@ Since I don’t actually have content for this meta site yet, here’s some fanc
 
 ![SushiJS](//www.gravatar.com/avatar/d32635f156e30c2f863ec95af93aef18?s=200)
 
-* [San Francisco, CA, USA](/san-francisco-ca-usa)
-* [Norfolk, VA, USA](/norfolk-va-usa)
+* [San Francisco, CA, USA](https://github.com/sushijs/san-francisco-ca-usa)
+* [Norfolk, VA, USA](https://github.com/sushijs/norfolk-va-usa)
 
 Is [your hometown](https://github.com/sushijs/meta/issues/new) next?
