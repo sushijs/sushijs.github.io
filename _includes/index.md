@@ -14,5 +14,6 @@ Since I don’t actually have content for this meta site yet, here’s some fanc
 * [San Francisco, CA, USA](https://github.com/sushijs/san-francisco-ca-usa)
 * [Norfolk, VA, USA](https://github.com/sushijs/norfolk-va-usa)
 * [London, UK](https://github.com/sushijs/london-uk)
+* [Tokyo, Japan](https://github.com/sushijs/tokyo-japan)
 
 Is [your hometown](https://github.com/sushijs/meta/issues/new) next?
